@@ -1,3 +1,5 @@
+package com.gippies.mousejiggler;
+
 import java.awt.*;
 
 public class MouseThread extends Thread {

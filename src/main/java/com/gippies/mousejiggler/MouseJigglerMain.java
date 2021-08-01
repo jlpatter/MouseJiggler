@@ -1,3 +1,5 @@
+package com.gippies.mousejiggler;
+
 import javax.swing.*;
 
 public class MouseJigglerMain {
