@@ -17,6 +17,7 @@ public class MouseThread extends Thread {
                 Point p = MouseInfo.getPointerInfo().getLocation();
                 r.mouseMove(p.x - 1, p.y - 1);
                 Thread.sleep(500);
+                p = MouseInfo.getPointerInfo().getLocation();
                 r.mouseMove(p.x + 1, p.y + 1);
                 Thread.sleep(500);
             }
