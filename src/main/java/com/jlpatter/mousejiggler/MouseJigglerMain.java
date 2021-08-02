@@ -1,4 +1,4 @@
-package com.gippies.mousejiggler;
+package com.jlpatter.mousejiggler;
 
 import javax.swing.*;
 
